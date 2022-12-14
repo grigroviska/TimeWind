@@ -27,14 +27,14 @@ implementation 'com.google.android.material:material:1.7.0'
 
 ## ScreenShots
 
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_1.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_1.png)
 
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_2.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_2.png)
 
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_3.png)
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_4.png)
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_5.png)
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_6.png)
-![](https://raw.githubusercontent.com/grigroviska/TimeWind/main/TimeWindScreenShot/TimeWind_7.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_3.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_4.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_5.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_6.png)
+![](https://raw.githubusercontent.com/grigroviska/TimeWind/master/TimeWindScreenShot/TimeWind_7.png)
 
 
