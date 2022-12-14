@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/Kotlin-v1.9.0-93b023?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/SDK-33-93b023?&style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/SQLiteDatabase-93b023?&style=for-the-badge&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/SQLiteDatabase-93b023?&style=for-the-badge&logo=SQLite&logoColor=white)
 
 
 
