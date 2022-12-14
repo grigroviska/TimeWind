@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:id="@+id/cb_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_toLeftOf="@id/tw_edit"
+        android:layout_toStartOf="@id/tw_edit"/>
+    
+    <ImageView
+        android:id="@+id/tw_edit"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/tw_edit_icon"
+        android:padding="8dp"
+        android:layout_toLeftOf="@id/tw_delete"
+        android:layout_toStartOf="@id/tw_delete"/>
+
+    <ImageView
+        android:id="@+id/tw_delete"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/tw_delete_icon"
+        android:padding="8dp"
+        android:layout_toLeftOf="@id/tw_move"
+        android:layout_toStartOf="@id/tw_move"/>
+
+    <ImageView
+        android:id="@+id/tw_move"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/tw_move"
+        android:padding="8dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+
+</RelativeLayout>
